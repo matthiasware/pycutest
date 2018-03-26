@@ -1,5 +1,5 @@
 # PYCUTEST #
-A python interface for the [CUTEST](https://ccpforge.cse.rl.ac.uk/gf/project/cutest/wiki/) package. It basically interfaces "Cutest.h. For this, pycutest relies on Cython and Numpy. For problems with the interface please contact me via matthias.mitterreiter@uni-jena.de.
+A python interface for the [CUTEST](https://ccpforge.cse.rl.ac.uk/gf/project/cutest/wiki/) package. It basically interfaces "Cutest.h. For this, pycutest relies on Cython and Numpy.
 
 # TODO
 - add tests !!!
