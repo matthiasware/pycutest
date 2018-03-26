@@ -1,0 +1,13 @@
+pycutest.egg-info/
+__pycache__/
+dist/
+build/
+lib/
+*.so
+*.egg-info/
+.installed.cfg
+*.egg
+*.pyc
+*.f
+*.o
+*.d
