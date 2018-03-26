@@ -19,7 +19,7 @@ A python interface for the [CUTEST](https://ccpforge.cse.rl.ac.uk/gf/project/cut
 - add more sample code
 
 ### Reference
-The implementation in  [HERE]("https://github.com/kenjydem/CUTEST.py.git") didn't work for me, but may work for you. It is a bit more sophisticated.
+The implementation in  [HERE]("https://github.com/kenjydem/CUTEST.py.git") didn't work for me, but may work for you. It is a bit more sophisticated so make sure to check that out.
 
 ### Dependencies
 - **Linux** (Although an adaption for MAC should be straightforward)
