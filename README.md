@@ -1,25 +1,8 @@
 # PYCUTEST #
-A python interface for the [CUTEST](https://ccpforge.cse.rl.ac.uk/gf/project/cutest/wiki/) package. It basically interfaces "Cutest.h. For this, pycutest relies on Cython and Numpy.
-
-
-# TODO
-- add tests !!!
-- rework readme.md
-- create compile function
-- create recompile funciton
-- create remake meta function
-- do this from setup.py
-- check if all environment variables are set!!!
-- Multiimport BUG, release resources if not needed 
-- remove del from \__del\__
-- create a property csv file with bounds and constraints
-- crate a benachmark file with ipopt and scipy runtimes.
-- implement functions for constraint problems
-- add interface for ipopt
-- add more sample code
+A python interface for the [CUTEST](https://ccpforge.cse.rl.ac.uk/gf/project/cutest/wiki/) package. It basically interfaces "Cutest.h. For this, pycutest relies on Cython and Numpy. Not all functions are interfaced so far.
 
 ### Reference
-The implementation in  [HERE]("https://github.com/kenjydem/CUTEST.py.git") didn't work for me, but may work for you. It is a bit more sophisticated so make sure to check that out.
+The implementation in  [HERE](https://github.com/kenjydem/CUTEST.py.git) didn't work for me, but may work for you. It is a bit more sophisticated so make sure to check that out.
 
 ### Dependencies
 - **Linux** (Although an adaption for MAC should be straightforward)
@@ -145,3 +128,13 @@ For problems with the interface please contact me via matthias.mitterreiter@uni-
 - **CUTEST** (https://ccpforge.cse.rl.ac.uk/gf/project/cutest/wiki/)
 - **CUTEST problems** (http://www.cuter.rl.ac.uk/Problems/mastsif.shtml)
 - **Cython Basics** (http://docs.cython.org/en/latest/src/userguide/language_basics.html)
+- **Original Interface** (https://github.com/kenjydem/CUTEST.py.git)
+
+# TODO
+- add tests
+- add samples code
+- create remake meta function
+- check if all environment variables are set!!!
+- Multiimport BUG, release resources if not needed 
+- remove del from \__del\__
+- implement functions for constraint problems
