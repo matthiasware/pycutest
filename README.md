@@ -1,6 +1,7 @@
 # PYCUTEST #
 A python interface for the [CUTEST](https://ccpforge.cse.rl.ac.uk/gf/project/cutest/wiki/) package. It basically interfaces "Cutest.h. For this, pycutest relies on Cython and Numpy.
 
+
 # TODO
 - add tests !!!
 - rework readme.md
@@ -16,6 +17,9 @@ A python interface for the [CUTEST](https://ccpforge.cse.rl.ac.uk/gf/project/cut
 - implement functions for constraint problems
 - add interface for ipopt
 - add more sample code
+
+### Reference
+The implementation in  [HERE]("https://github.com/kenjydem/CUTEST.py.git") didn't work for me, but may work for you. It is a bit more sophisticated.
 
 ### Dependencies
 - **Linux** (Although an adaption for MAC should be straightforward)
